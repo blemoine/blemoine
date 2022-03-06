@@ -1,5 +1,5 @@
 :root {
-  --primaryColor: #0099cc;
+  --primaryColor: #0079a5;
 }
 html {
   font-family: 'Lato', sans-serif;
@@ -8,7 +8,7 @@ html {
 }
 
 a {
-  color: #009999;
+  color: #007878;
   text-decoration: none;
   font-weight: 600;
 }
@@ -81,12 +81,12 @@ em {
   font-weight: 600;
 }
 .duration {
-  color: #999999;
+  color: #757575;
   margin-right: 10px;
   font-weight: 400;
 }
 h3 {
-  color: #00bfff;
+  color: var(--primaryColor);
   font-weight: 400;
   font-size: 1.3em;
   margin-top: 0.8em;
