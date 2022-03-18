@@ -1,0 +1,22 @@
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+[user]
+	name = Benoit Lemoine
+	email = 
+[github]
+	user = blemoine
+	token = 65213eb946ec21ca476f61edc51fdc0f
+[alias]
+	st = status
+	co = checkout
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	pr = pull --rebase
+	changelog = log --pretty=oneline --abbrev-commit
+[push]
+	default = simple
+[core]
+	autocrlf = input
+[http]
+	postBuffer = 157286400
